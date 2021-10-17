@@ -7,10 +7,11 @@
 <a href="https://www.linkedin.com/in/jonas-barth-uk/">
 <img align="left" alt="Jonas Barth LinkedIn width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <br>
 
+## 📌 Pinned Repositories
 
+<br>
 <a href="https://github.com/jonasbarth/snakevolution">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasbarth&repo=snakevolution&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
