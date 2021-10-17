@@ -4,8 +4,9 @@
 
 ### Connect with me:
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonas-barth-uk/) -->
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/jonas-barth-uk/]
-
+<a href="https://www.linkedin.com/in/jonas-barth-uk/">
+<img align="left" alt="Jonas Barth LinkedIn width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br>
 
