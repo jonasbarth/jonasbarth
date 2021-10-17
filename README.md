@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hello there, I'm Jonas 👋
+
+## Currently, I am working as a Graduate Software Engineer at CERN. 
+
+### Connect with me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonas-barth-uk/)
+
+<br>
+
+
+<a href="https://github.com/jonasbarth/snakevolution">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasbarth&repo=snakevolution&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/jonasbarth/pysnakegym">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasbarth&repo=pysnakegym&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<!-- Pinned Repositories -- >
+
 
 <!--
 **jonasbarth/jonasbarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
