@@ -2,10 +2,11 @@
 
 ## I am working as a Graduate Software Engineer at CERN where I help to prepare the accelerators for the upcoming Run 3. 
 
+<!--
 - 🔭 I’m currently working on applying evolutionary algorithms to the game of Snake
 - 🌱 I’m currently learning various ways to tune evolutionary algorithms
 - ⚡ Fun fact: I play the piano and guitar
-
+-->
 ### Connect with me:
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonas-barth-uk/) -->
 <a href="https://www.linkedin.com/in/jonas-barth-uk/">
@@ -29,7 +30,7 @@
 
 <br>
 <a href="https://github.com/jonasbarth/attention-is-all-you-need">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasbarth&repo=pysnakegym&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasbarth&repo=attention-is-all-you-need&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## 💼 Skills
